@@ -14,7 +14,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    min-height: 100vh;
+    height: 100vh;
 }
 
 img {
@@ -89,5 +89,11 @@ button:active {
 
     .input-min {
         margin-right: 0;
+    }
+}
+
+@media (max-width: 30rem) {
+    img {
+        height: 12rem;
     }
 }
