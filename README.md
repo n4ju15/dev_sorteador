@@ -6,14 +6,12 @@ Este repositório contém o projeto Dev Sorteio que é um site para fazer sortei
 
 ## Para Desktop
 <div align="center">
-<figure>
-  <img src="./assets/desktop.gif" loop autoplay>
-</figure>
+<img src="./assets/desktop.gif" width="400" height="400" loop>
 </div>
 
 ## Para Mobile
 <div align="center">
-<img src="./assets/mobile.jpeg">
+<img src="./assets/mobile.jpeg"  width="200" height="400">
 </div>
 
 ## Tecnologias
