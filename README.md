@@ -4,8 +4,16 @@ Este repositório contém o projeto Dev Sorteio que é um site para fazer sortei
 
 🔗 [Click here to access](https://n4ju15.github.io/dev_sorteador/)
 
+## Para Desktop
 <div align="center">
-<img src="./assets/">
+<figure>
+  <img src="./assets/desktop.gif" loop autoplay>
+</figure>
+</div>
+
+## Para Mobile
+<div align="center">
+<img src="./assets/mobile.jpeg">
 </div>
 
 ## Tecnologias
